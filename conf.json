@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "manim-env\\Scripts\\python.exe",
+  "manim.defaultScene": "Main",
+  "manim.defaultQuality": "low",
+  "manim.defaultFile": "main.py"
+}
